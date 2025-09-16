@@ -1,8 +1,6 @@
 
 # TripTrek : Intelligent Travel Planning using Palm’s Chat-Bison-001
 
-**Link for Project Demonstration Website Link**  --  https://triptrek-app-rpykpq2dtftadrlq8zjkaf.streamlit.app/ 
-
 
 
 # Project Description:
